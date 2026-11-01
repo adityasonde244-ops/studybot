@@ -1,4 +1,6 @@
-python-telegram-bot[job-queue]==21.6
-google-genai
-python-dotenv
+streamlit
 requests
+python-dotenv
+scikit-learn
+pypdf
+pandas
